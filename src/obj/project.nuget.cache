@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NnPCtpuT90HwWsMMN7msQhdCh0r2HCridvHPXVQLymqUptsNO+39WPrFAjnrhWW5r2aHYBxZ7Pt1BLL6rzcfEw==",
+  "success": true,
+  "projectFilePath": "/Users/ramandeepsingh/Desktop/Dos/findsquare/findsquare/findsquare.fsproj",
+  "expectedPackageFiles": [
+    "/Users/ramandeepsingh/.nuget/packages/fsharp.core/4.7.2/fsharp.core.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
